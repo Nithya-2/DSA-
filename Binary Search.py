@@ -18,6 +18,4 @@ list=[4,5,9,1,99,3]
  if search(list,n):
 	print("Found at",pos+1)
  else:
-	    
-
- print("Not found")
+	print("Not found")
